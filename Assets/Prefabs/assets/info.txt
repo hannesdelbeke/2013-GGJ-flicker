@@ -1,0 +1,3 @@
+prefab/core:
+
+all prefabs that have influence on the walkable areas

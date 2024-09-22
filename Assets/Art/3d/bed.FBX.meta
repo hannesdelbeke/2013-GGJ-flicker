@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: fcb8eaf09771d3e46b8de3adc5141030
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bed
+    100004: Box001
+    100006: Box002
+    100008: Object001
+    100010: Object002
+    100012: bed_blockout
+    100014: bed_deken
+    100016: bed_kussen
+    100018: bed_laag
+    100020: bed_matras
+    100022: bed_voet
+    100024: Platform1_plane
+    100026: Platform1_plane 1
+    100028: Platform1_plane 2
+    100030: Platform1_plane 3
+    100032: Platform1_plane 4
+    400000: //RootNode
+    400002: bed
+    400004: Box001
+    400006: Box002
+    400008: Object001
+    400010: Object002
+    400012: bed_blockout
+    400014: bed_deken
+    400016: bed_kussen
+    400018: bed_laag
+    400020: bed_matras
+    400022: bed_voet
+    400024: Platform1_plane
+    400026: Platform1_plane 1
+    400028: Platform1_plane 2
+    400030: Platform1_plane 3
+    400032: Platform1_plane 4
+    2300000: bed
+    2300002: Box001
+    2300004: Box002
+    2300006: Object001
+    2300008: Object002
+    2300010: bed_blockout
+    2300012: bed_deken
+    2300014: bed_kussen
+    2300016: bed_laag
+    2300018: bed_matras
+    2300020: bed_voet
+    2300022: Platform1_plane
+    2300024: Platform1_plane 1
+    2300026: Platform1_plane 2
+    2300028: Platform1_plane 3
+    2300030: Platform1_plane 4
+    3300000: bed
+    3300002: Box001
+    3300004: Box002
+    3300006: Object001
+    3300008: Object002
+    3300010: bed_blockout
+    3300012: bed_deken
+    3300014: bed_kussen
+    3300016: bed_laag
+    3300018: bed_matras
+    3300020: bed_voet
+    3300022: Platform1_plane
+    3300024: Platform1_plane 1
+    3300026: Platform1_plane 2
+    3300028: Platform1_plane 3
+    3300030: Platform1_plane 4
+    4300000: bed
+    4300002: Object001
+    4300004: Box001
+    4300006: Box002
+    4300008: Object002
+    4300010: bed_blockout
+    4300012: bed_matras
+    4300014: bed_laag
+    4300016: bed_voet
+    4300018: bed_kussen
+    4300020: bed_deken
+    4300022: Platform1_plane
+    4300024: Platform1_plane
+    4300026: Platform1_plane
+    4300028: Platform1_plane
+    4300030: Platform1_plane
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
